@@ -1,0 +1,19 @@
+body{background-color: antiquewhite;}
+
+body {
+    font-family:  sans-serif;
+}
+
+.card-text{padding: 0 10px;}
+.card-header-dashboard{background-color: rgb(247, 211, 164);padding-left: 25px;}
+.navbar{background-color: rgb(245, 199, 138);}
+
+/* cards admin */
+h1{font-size: large;line-height: 1rem;margin:0;padding:0;}
+.titleAdm{color: brown; font-weight: bold;display:block;text-align: center;margin-top:1rem;font-size:large;}
+
+.labelSpan{color: yellow; font-weight: bold;}
+
+.loginRoleMessage{color:black; background-color:  rgb(247, 211, 164); padding:10px;margin:0px 24px;}
+.loginRoleText{color: brown; font-weight: bold;}
+p.card-title{font-size:large;}
